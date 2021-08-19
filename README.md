@@ -1,1 +1,1 @@
-PHP 7 essay generator
+Python3 essay generator
